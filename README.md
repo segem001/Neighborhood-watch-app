@@ -23,9 +23,9 @@ This is an app that allow users to be updated on what is happenning on their nei
 
 
 ## Setup/Installation requirements
-1.Clone or download and unzip the repository from github,https://github.com/johnopana/NeighHood-App.git
+1.Clone or download and unzip the repository from github,
 
-2. Activate virtual environment using python3.6 as default handler virtualenv -p /usr/bin/python3.6 venv && source venv/bin/activate
+2. Activate virtual environment using python3.6 as default handler virtualenv -p /usr/bin/python3.8 venv && source venv/bin/activate
 
 3. Install dependancies that will create an environment for the app to run pip3 install -r requirements.txt
 4. Create the Database
