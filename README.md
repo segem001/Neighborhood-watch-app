@@ -28,9 +28,7 @@ This is an app that allow users to be updated on what is happenning on their nei
 2. Activate virtual environment using python3.8 as default handler virtualenv -p /usr/bin/python3.8 venv && source venv/bin/activate
 
 3. Install dependancies that will create an environment for the app to run pip3 install -r requirements.txt
-4. Create the Database
-- psql
--
+
 
 ## Prerequisite
 * PYTHON 3.8
