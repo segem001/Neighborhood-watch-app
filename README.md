@@ -1,4 +1,4 @@
-# NeighHood-App
+# NeighHood-watch-App
 ####  **Kiprono Dominic Segem**
 
 ## Description
@@ -24,9 +24,11 @@ This is an app that allow users to be updated on what is happenning on their nei
 ## Setup/Installation requirements
 1.Clone https://neighborsagemapp.herokuapp.com/
 
-2. Activate virtual environment using python3.8 as default handler virtualenv -p /usr/bin/python3.8 venv && source venv/bin/activate
+2. Activate virtual environment using python3.8 
+   source venv/bin/activate
 
-3. Install dependancies that will create an environment for the app to run pip3 install -r requirements.txt
+4. Install dependencies that will create an environment for the app to run 
+    *pip3 install -r requirements.txt
 
 
 ## Prerequisite
