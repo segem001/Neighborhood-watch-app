@@ -1,12 +1,11 @@
 # NeighHood-App
-#### Application for users to join and find the posts about their neighbourhood.
 ####  **Kiprono Dominic Segem**
 
 ## Description
 This is an app that allow users to be updated on what is happenning on their neighborhoods
 
 ## Project live site
-  This is the live .()
+  This is the live .(https://neighborsagemapp.herokuapp.com/)
  
  
  
@@ -23,7 +22,7 @@ This is an app that allow users to be updated on what is happenning on their nei
 
 
 ## Setup/Installation requirements
-1.Clone or download and unzip the repository from github,
+1.Clone https://neighborsagemapp.herokuapp.com/
 
 2. Activate virtual environment using python3.8 as default handler virtualenv -p /usr/bin/python3.8 venv && source venv/bin/activate
 
@@ -31,13 +30,12 @@ This is an app that allow users to be updated on what is happenning on their nei
 
 
 ## Prerequisite
-* PYTHON 3.8
-* DJANGO FRAMEWORK
-* PYTHON VIRTULENV
-* POSTGRESS
+* Python 3.8
+* Django framework
+* Postgress
 ## Support and contact details
 contact me kipdom001@gmail.com
 ### License
 The project is under[MIT license](LICENSE)
-Copyright &copy; 20120.All rigths reserved
+Copyright &copy; 2020.All rigths reserved
   
